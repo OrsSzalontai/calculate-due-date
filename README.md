@@ -1,3 +1,3 @@
 # Calculate Due Date TEST
 
-Install with `yarn install` and run tests with `yarn test`
+After cloning the repository please install with `yarn install` and run tests with `yarn test`!
